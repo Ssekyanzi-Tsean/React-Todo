@@ -21,7 +21,6 @@
     "extends": [
       
       "react-app/jest",
-      "react-app/jest",
       "eslint:recommended",
       "plugin:react/recommended"
     ]
